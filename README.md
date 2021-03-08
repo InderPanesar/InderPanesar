@@ -1,4 +1,4 @@
-Hi. I’m Inder. I build lots of demos on this account and currently focusing on Flutter development. 
+Hi. I’m Inder. I build lots of demos on this account
 
 Currently doing a placement/internship as a Mobile Application Developer. 
 
