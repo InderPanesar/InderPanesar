@@ -1,6 +1,6 @@
 Hi. I’m Inder. I build lots of demos on this account
 
-Currently doing a placement/internship as a Mobile Application Developer. 
+Currently doing a placement/internship as a Mobile Developer. 
 
 **Languages and Tools:**  
 
