@@ -1,6 +1,6 @@
 Hi. I’m Inder. I build lots of demos on this account
 
-Currently doing a my final year of my Computer Science degree. 
+Currently completing my final year of my degree in Computer Science. 
 
 **Languages and Tools:**  
 
