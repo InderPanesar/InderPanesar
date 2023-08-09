@@ -1,6 +1,6 @@
 Hi. I’m Inder. I build lots of demos on this account
 
-Currently completing my final year of my degree in Computer Science. 
+Currently working as Software Developer at Apadmi working on iOS & Flutter Apps. 
 
 **Languages and Tools:**  
 
